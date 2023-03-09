@@ -1,4 +1,5 @@
-#Générateur de suite de nombres en Java
+Générateur de suite de nombres en Java
+
 Ce programme Java permet de générer des suites de nombres uniques d'une longueur et d'un nombre de chiffres spécifiés par l'utilisateur. Le programme peut générer des suites de nombres jusqu'à neuf chiffres et garantit que chaque nombre généré est unique.
 
 Le programme vous demandera alors la longueur de la suite de nombres que vous souhaitez générer, ainsi que le nombre de chiffres de chaque nombre de la suite. Assurez-vous que la longueur de la suite et le nombre de chiffres sont des entiers positifs.
